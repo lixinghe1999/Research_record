@@ -28,3 +28,14 @@
     - [ESMB](https://github.com/elevoctech/ESMB-corpus)
     - [VibraVox](https://huggingface.co/datasets/Cnam-LMSSC/vibravox)
 
+Please Cite if used
+```
+@inproceedings{he2023towards,
+  title={Towards Bone-Conducted Vibration Speech Enhancement on Head-Mounted Wearables},
+  author={He, Lixing and Hou, Haozheng and Shi, Shuyao and Shuai, Xian and Yan, Zhenyu},
+  booktitle={Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services},
+  pages={14--27},
+  year={2023}
+}
+```
+
